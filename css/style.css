@@ -1,0 +1,33 @@
+body {
+    background-color: yellow;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+section {
+    border: 2px solid blue;
+    display: inline-block;
+    height: 400px;
+    margin: 1%;
+    vertical-align: top;
+    width: 400px;
+}
+
+.gameTitle {
+    margin-bottom: 0;
+}
+
+.rightAnswers {
+    color: green;
+    font-size: 25px;
+}
+
+.wrongAnswers {
+    color: red;
+    font-size: 25px;
+}
+
+.userName {
+    font-size: 25px;
+    margin-top: 0;
+}
